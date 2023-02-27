@@ -69,6 +69,6 @@ https://www.yna.co.kr/view/AKR20230214028800003
 > 인공지능 전공 윤여찬(ycyoon@jejunu.ac.kr), 컴퓨터공학 변영철(ycb@jejunu.ac.kr), 김수균(kimsk@jejunu.ac.kr) 교수님께 자유롭게 문의 주세요
 
 # 기타질의
-> Issues에 질문을 올려주세요
+> Issues에 질문을 올려주시거나 카카오톡 오픈 채팅방(https://open.kakao.com/o/gYNBWV6e) 참여바랍니다.
 
 
